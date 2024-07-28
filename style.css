@@ -1465,5 +1465,8 @@ input::placeholder {
         top: 70%;
         left: 33%;
     }
+     .container55{
+        padding-block: 15rem;
+    }
 
 }
